@@ -34,3 +34,8 @@ espresso = Coffee("Espresso")
 osman = Customer("Osman")
 
 osman.create_order(espresso, 5.0)
+
+
+
+
+## to run pytest python -m pytest
